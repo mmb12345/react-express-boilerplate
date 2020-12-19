@@ -12,7 +12,7 @@ export default () => {
 
   return (
     <div>
-      <img src='/sad.png' />
+      hello aha :D
     </div>
   )
 }
